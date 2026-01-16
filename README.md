@@ -1,4 +1,3 @@
-<img width="1502" height="350" alt="image" src="https://github.com/user-attachments/assets/906377cb-ad97-44db-adf3-326b5d1fe0c7" /># Portfolio
 나신영 | 신입 개발자
 
 # 안녕하세요, 신입 개발자 나신영입니다
@@ -17,7 +16,7 @@
 ---
 
 ## 📌 Projects
-- **복합문화체육시설**
+- 복합문화체육시설
   - 커뮤니티·출석·예약·결제·회원 관리를 하나로 통합한 스마트 시스템을 구축하고, Spring Boot 기반의 REST API 서버와 React 프론트엔드를 연동하여 구현했습니다.
   - 담당 부분: 마이 페이지(일반/파트너), 대관 신청 페이지, 외부 로그인 API 연동
   - 🔗 [Repository Link / Frontend](https://github.com/hihi0hi/Semicolon_final_project-frontend.git)
